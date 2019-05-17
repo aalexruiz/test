@@ -2,4 +2,4 @@ def greet(name):
     print("Nice to meet you, {}!".format(name.title()))
 
 
-greet("Alex")
+greet("Alex Ruiz")
